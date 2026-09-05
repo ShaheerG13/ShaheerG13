@@ -3,9 +3,9 @@
 CS student at the University of Virginia (B.S., expected May 2028). I mostly build
 backend and AI systems: LLM pipelines, RAG, and automation tools that make my life easier.
 
-**Languages** Python · Java · TypeScript · JavaScript · SQL · HTML/CSS
-**Backend** FastAPI · Flask · Node.js · PostgreSQL · React · React Native
-**Cloud & Tools** AWS (Lambda, ECR, IAM, Bedrock) · Docker · GitHub Actions · Cloudflare · Supabase · Pinecone
+**Languages -** Python · Java · TypeScript · JavaScript · SQL · HTML/CSS<br>
+**Backend -** FastAPI · Flask · Node.js · PostgreSQL · React · React Native<br>
+**Cloud & Tools -** AWS (Lambda, ECR, IAM, Bedrock) · Docker · GitHub Actions · Cloudflare · Supabase · Pinecone
 
 ---
 
